@@ -239,6 +239,7 @@ public class StringLoopsTest {
         assertTrue(output.contains("[hi there hi there]\n"));
         assertTrue(output.contains("[boop!]\n"));
         assertTrue(output.contains("[]\n"));
+
     }
 
 }
